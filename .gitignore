@@ -1,0 +1,4 @@
+/node_modules
+/dist
+/Lecture02/dist
+.parcel-cache

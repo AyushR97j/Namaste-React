@@ -1,4 +1,6 @@
 /node_modules
 /dist
+/Lecture01/dist
 /Lecture02/dist
+/Lecture03/dist
 .parcel-cache
